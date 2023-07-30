@@ -58,13 +58,10 @@ Silahkan lihat pada file "license.txt".
 Laporkan masalah keamanan atau bug ke email "sanimalikibrahim@gmail.com", terima kasih.
 
 ****************
-Kontak Developer
+Kontak original source code
 ****************
 
 Email : sanimalikibrahim@gmail.com
 Phone / Whatsapp : +62 813-951-794-52
 Blog : http://developid.blogspot.com/
 Website : http://tasik.dev/
-
-Best regards,
-Sani Malik Ibrahim
